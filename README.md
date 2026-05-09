@@ -4,7 +4,7 @@ Turn messy git commits or raw diffs into clean changelogs for developers, non-te
 
 ## Live Demo
 
-Add your Vercel link here after deployment.
+[Try the live app](https://ai-changelog-writer-beta.vercel.app/)
 
 ## Why This Exists
 
